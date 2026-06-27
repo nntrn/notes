@@ -1,0 +1,46 @@
+HIERARCHY
+
+identity is 1:m to motion 
+motion is m:1 or m:0 to identity
+
+identity can define motion but it cannot uniquely predict motion. motion can infer identity but it cannot prove identity. 
+
+a tiger is not a tiger because it runs fast; it runs fast because it's a tiger
+
+objectivity is dominated by downward constraints
+subjectivity is where local activation dominates 
+
+identity-first: ontological containment and definition
+motion-first: generative and causal production
+
+parent: objective relative to child
+child: subjective relative to parent
+
+---
+
+Identity-first objectivity:
+Parent defines stable classification boundaries.
+
+Motion-first objectivity:
+Parent is generative condition for child existence.
+
+Subjectivity under identity-first:
+Child depends on parent for category meaning.
+
+Subjectivity under motion-first:
+Child depends on parent for causal production.
+
+child -> parent (update)
+parent -> children (cascade)
+
+motion dominance patterns:
+
+* States change constraint motion
+* Constraint motion determines reliability
+* Reliability differences feel like objective vs subjective
+* Learning direction determines cascade risk
+* Hierarchy position determines relational objectivity
+
+dreams and psychedelics shift motion dominance
+
+github.com/nntrn/notes
