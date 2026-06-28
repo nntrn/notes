@@ -1,0 +1,24 @@
+SHAPES
+
+using shapes: circles, squares, and triangles
+
+circles are analogs for motion, squares for trace, and triangles for entropy.
+
+shapes take on roles like: generators, interpreters, and predictors. or movers, directors, and boundary setters.
+triangles do not typically play a role. they are mostly tools used by circles and squares to leverage their environment 
+
+squares can hold circles with the same diameter but circles cannot hold squares without shrinking them in the process. this makes circles more precise but limiting from yielding precision out of complexity. conversely, squares offer simplicity and repeatability - it trades precision for generalization and benefits from orthogonality as a feature.
+
+gains are asymmetrical for squares and symmetrical for circles. 
+
+circles leverage geodesics and manifolds and 45 degree turns (example: stereophonic sounds) 
+
+***
+
+add implicit and explicit layers for shapes to model behavior and trace how internal foundations drive external values, goals, and strategies. they can be described using: {implicit}-{explicit}
+
+example: circle-squares tend to be domain experts while generalists are square-circles
+
+---
+
+github.com/nntrn/notes
